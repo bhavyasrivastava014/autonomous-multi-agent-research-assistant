@@ -1,4 +1,4 @@
-# 🤖 Autonomous Research Agent - Production Ready
+# 🤖 Autonomous Research Agent
 
 ## 🎯 Features
 - **Modular Architecture**: Services (search/llm/kb), agents, models, config/logging
